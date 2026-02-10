@@ -1,0 +1,2 @@
+# Requires: obsolete-loop
+# (Not available on PyPI)
